@@ -31,6 +31,7 @@
 }
 .logoname{
     display: inline-block;
+    color:yellow
     font-weight: bolder;
     
 }
@@ -40,7 +41,10 @@
     margin-top: 20px;
     
 }
-
+ul li{
+    width: 20%;
+    
+}
   
 
   form.example input[type=text] {
@@ -111,7 +115,7 @@
 }
 
 .button-color{
-    background: #3f0251;
+    background: #702020;
     border-bottom-left-radius: 8px;
     border-top-right-radius: 8px;
     font-weight: 500;
